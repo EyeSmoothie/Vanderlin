@@ -266,6 +266,7 @@
 	character.adjust_skillrank(/datum/skill/craft/cooking, 2, TRUE)
 	character.adjust_skillrank(/datum/skill/craft/engineering, 2, TRUE)
 	character.adjust_skillrank(/datum/skill/craft/tanning, 2, TRUE)
+    character.adjust_skillrank(/datum/skill/craft/sewing, 2, TRUE)
 
 /datum/special_trait/blueblood
 	name = "Noble Lineage"
